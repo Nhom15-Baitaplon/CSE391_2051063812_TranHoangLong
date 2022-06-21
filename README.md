@@ -29,7 +29,10 @@ MOBILE VIEW
 ![image](https://user-images.githubusercontent.com/100946372/174905251-2c9aee87-ba01-453f-9981-5d40566f2331.png)
 ![image](https://user-images.githubusercontent.com/100946372/174905266-747853a6-1fdd-4944-91c0-b0df5c0b12b6.png)
 
+
 LOGIN PAGE
+
+
 ![image](https://user-images.githubusercontent.com/100946372/174905382-d2df2544-04f1-414f-ad43-7eca45d34008.png)
 ![image](https://user-images.githubusercontent.com/100946372/174905439-793b9d87-4a56-4231-90de-4225b6c6c41f.png)
 ![image](https://user-images.githubusercontent.com/100946372/174905456-cf0d38d5-2d01-4ab6-b7d0-6d26a8e0429e.png)

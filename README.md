@@ -14,7 +14,11 @@ BOOTSTRAP
 ![image](https://user-images.githubusercontent.com/100946372/174904559-711ce67a-fa86-46a5-ad18-132ce44143f4.png)
 ![image](https://user-images.githubusercontent.com/100946372/174904857-e704fe21-4417-4021-a221-0e50e97dbb9e.png)
 ![image](https://user-images.githubusercontent.com/100946372/174904873-19b2d237-a743-4207-b012-640ed6904b0f.png)
+
+
 MOBILE VIEW
+
+
 ![image](https://user-images.githubusercontent.com/100946372/174904957-744074b6-0f36-47c1-97f2-e58b4b2a8075.png)
 ![image](https://user-images.githubusercontent.com/100946372/174904995-9b1e678a-58d9-49af-bc9e-aba6b6e1989a.png)
 ![image](https://user-images.githubusercontent.com/100946372/174905047-c312dc47-7208-473a-b94a-cb20de024631.png)

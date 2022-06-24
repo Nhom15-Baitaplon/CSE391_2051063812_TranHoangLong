@@ -50,8 +50,7 @@
               <li class="nav-item">
                 <a class="nav-link text-light" href="Tinnhan.html">Tin Nhắn </a>
               </li>
-              
-              
+             
               <li class="nav-item d-md-none ">
                 <a href="https://xuatnhapkhau365.webmau68.com/"><i class="bi bi-facebook"></i></a>
                 <h6 class="text-light">HOT LINE:0344517444</h6>
@@ -75,7 +74,43 @@
   </div>
 </div>
 
-
+<div class="container-fluid">
+  <div class="container-xl mt-3 mb-3">
+      <div class="mb-1 row">
+        <label for="" class="col-sm-2 col-form-label">STT</label>
+        <div class="col-sm-10"><input type="number" id="stt"></div>
+      </div>
+      <div class="mb-1 row">
+        <label for="" class="col-sm-2 col-form-label">Họ và tên</label>
+        <div class="col-sm-10"> <input type="text" id="hovaten"></div>
+      </div>
+      <div class="mb-1 row">
+        <label for="" class="col-sm-2 col-form-label">Sđt</label>
+        <div class="col-sm-10"><input type="number" id="sdt"></div> 
+      </div>
+      <div class="mb-1 row">
+        <label for="" class="col-sm-2 col-form-label">Email</label>
+        <div class="col-sm-10"> <input type="email" id="eml"></div>
+      </div>
+      <div class="mb-1 row">
+        <label for="" class="col-sm-2 col-form-label">Mã Hàng</label>
+        <div class="col-sm-10"> <input type="number" id="mahang"></div>     
+      </div>
+      <div class="mb-1 row"> 
+        <label for="" class="col-sm-2 col-form-label">Tiền Hàng</label>
+        <div class="col-sm-10"><input type="number" id="tienhang"></div>     
+      </div>
+      <div class="mb-1 row">
+        <label for="" class="col-sm-2 col-form-label">Cân Nặng</label>
+        <div class="col-sm-10"><input type="number" id="cannang"></div>      
+      </div>
+      <div class="mb-1 row">
+        <label for="" class="col-sm-2 col-form-label">Tổng tiền</label>
+        <div class="col-sm-10"><input type="text" id="tongtien" readonly></div>
+      </div>
+   
+  </div>
+</div>
 
 <div class="container-fluid">
   <div class="container-xl mt-3 mb-3">
@@ -87,45 +122,6 @@
 
 
 <div class="container-fluid">
-  <div class="container-xl mt-3 mb-3">
-    <div class="d-grid gap-2 d-md-block">
-      <div>
-        <label for="">STT</label>
-        <input type="number" id="stt">
-      </div>
-      <div>
-        <label for="">Họ và tên</label>
-        <input type="text" id="hovaten">
-      </div>
-      <div>
-        <label for="">Sđt</label>
-        <input type="number" id="sdt">
-      </div>
-      <div>
-        <label for="">Email</label>
-        <input type="email" id="eml">
-      </div>
-      <div>
-        <label for="">Mã Hàng</label>
-        <input type="number" id="mahang">
-      </div>
-      <div>
-        <label for="">Tiền Hàng</label>
-        <input type="number" id="tienhang">
-      </div>
-      <div>
-        <label for="">Cân Nặng</label>
-        <input type="number" id="cannang">
-      </div>
-      <div>
-        <label for="">Tổng tiền</label>
-        <input type="text" id="tongtien">
-      </div>
-    </div>
-  </div>
-</div>
-
-
   <div class="container-xl" style="height: 500px;">
     <table class="table" id="show">
       <thead>
@@ -138,13 +134,24 @@
           <th scope="col">Tiền Hàng</th>
           <th scope="col">Cân Nặng</th>
           <th scope="col">Tổng tiền</th>
+          <th scope="col"></th>
+        </tr>
+        <tr>     
+          <td id="GH_stt"></td>
+          <td id="GH_hovaten"></td>
+          <td id="GH_sdt"></td>
+          <td id="GH_email"></td>
+          <td id="GH_kienhang"></td>
+          <td id="GH_tienhang"></td>
+          <td id="GH_cannang"></td>        
         </tr>
       </thead>
       
     </table>
   </div>
+</div>
 
-<div class="container-flui text-center bg-dark text-light" style="height: 150px;">
+<div class="container-fluid text-center bg-dark text-light" style="height: 150px;">
   <div class="border-bottom">
     <h1 class="text-primary">Hiển-Long-Quyết</h1>
     <h3><strong> Chuyên Vận Chuyển Hàng Trung Quốc</strong></h3>
@@ -159,5 +166,6 @@
       crossorigin="anonymous"
     ></script>
     <script src="js/Admin.js"></script>
+    <script src="js/GH.js"></script>
 </body>
 </html>
